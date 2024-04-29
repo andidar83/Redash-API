@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 29 15:53:59 2024
-
-@author: NXP
-"""
-
 import requests
 
 def archive_query(redash_url, query_id, api_key):
