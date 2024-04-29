@@ -18,4 +18,4 @@ def archive_query(redash_url, query_id, api_key):
 
 list_archive = [2319]
 for i in list_archive:
-    print(archive_query('https://redash-id.ninjavan.co/',i,'Poqwen8BjW4zjLHOzpmSlXDnm7TSrV5DzevDv6eD'))
+    print(archive_query('your redash domain',i,'your api'))
